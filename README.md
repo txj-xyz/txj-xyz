@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=txj-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="txj-xyz" /> </p>
 
-- 🔭 I’m currently working on [PvME Utility Bot](https://github.com/txj-xyz/pvme-util-bot)
-
-- 🌱 I’m currently learning **Electron, TSX, React**
-
-- 👯 I’m looking to collaborate on **Anything :)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/txj-xyz/](https://github.com/txj-xyz/)
 
 - 💬 Ask me about **javascript, typescript**
