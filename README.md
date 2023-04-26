@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/txj-xyz/](https://github.com/txj-xyz/)
 
+- ❤️ Buy me a coffee! [https://www.buymeacoffee.com/txj69](https://donate.txj.sh)
+
 - 💬 Ask me about **TypeScript**
 
 <h3 align="left">Languages and Tools:</h3>
