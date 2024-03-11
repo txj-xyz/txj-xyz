@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rancher HA Clusters<br>🤝 I’m looking for help with K8s Storage Provisioning<br>🌱 I’m currently learning GoLang<br>💬 Ask me about RS3 Macros :^)<br>⚡ Fun fact I learn very quick!
+🔭 I’m currently working on HA Kubernetes<br>🌱 I’m currently learning GoLang<br>💬 Ask me about K3s/K8s :^)<br>⚡ Fun fact I learn very quick!
 
 ![](https://komarev.com/ghpvc/?username=txj-xyz&label=Profile%20views&color=0e75b6&style=flat)
 
