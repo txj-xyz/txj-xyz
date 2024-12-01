@@ -1,8 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on recoding my Discord bots in Go + HTMX!<br>
-🌱 I’m currently learning Kotlin<br>
-💬 Ask me about GoLang / Kubernetes :^)<br>
-⚡ Fun fact I helped write Groovy Discord Bot!
+🔭 I’m currently working on writing web backends!<br>
+🌱 I’m currently doing Golang things<br>
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/txj__)
